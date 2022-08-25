@@ -1,0 +1,1 @@
+* * * * * php /www/aggreagtion-api/artisan schedule:run  >> /www/aggreagtion-api/crontab.log  2>&1
